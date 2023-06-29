@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Front-end+Intructor+at+HiiT;Content+Writer;Lead-Tech-Intructor+at+RealCloud+Plus;Tech-savvy+person+from+Nigeria)](https://git.io/typing-svg)
 
 
-- 🌱 I’m currently learning **Angular, Cyber Security, Software Engineering with alx**
+- 🌱 I’m currently learning **Angular, Cyber Security, Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iykechuks11/](https://github.com/iykechuks11/)
 
