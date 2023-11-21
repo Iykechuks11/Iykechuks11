@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hey there, I'm Chukwu Ikechukwu John (Champion) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Front-end+Intructor+at+HiiT;Content+Writer;Lead-Tech-Intructor+at+RealCloud+Plus;Tech-savvy+person+from+Nigeria)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Front-end+Intructor+at+Google;Content+Writer;Lead-Tech-Intructor+at+Discreet+Tech+Scholar;Tech-savvy+person+from+Nigeria)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently learning **Angular, Cyber Security, Software Engineering**
