@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm C. Ikechukwu John (Champion) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-- 🌱 I’m currently learning **Angular | TypeScript**
+- 🌱 **Angular | TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iykechuks11/](https://github.com/iykechuks11/)
 
