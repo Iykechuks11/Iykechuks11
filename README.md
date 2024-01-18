@@ -1,21 +1,10 @@
 <h1 align="center">Hey there, I'm Chukwu Ikechukwu John (Champion) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Front-end+Intructor+at+Google;Content+Writer;Lead-Tech-Intructor+at+Discreet+Tech+Scholar;Tech-savvy+person+from+Nigeria)](https://git.io/typing-svg)
-
-
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular | TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iykechuks11/](https://github.com/iykechuks11/)
 
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
-
-<br>
-<div align="center">
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/iykechuks11/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Iykechuks11&column=7"/>
-  </a>
-</div>
 
 ---
 
