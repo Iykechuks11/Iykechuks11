@@ -1,6 +1,6 @@
 # Hi 👋, I'm John
 
-### A web developer from the UK
+### A web developer from the Nigeria
 
 ### 📝 About me
 
