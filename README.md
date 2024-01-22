@@ -1,4 +1,10 @@
-<h1 align="center">Hey there, I'm C. Ikechukwu John (Champion) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+# Hi 👋, I'm John
+
+### A web developer from the UK
+
+### 📝 About me
+
+As a web developer with a year of commercial experience, I specialize in building scalable and reliable applications using Typescript and Angular.js. I am highly skilled in writing tests and take pride in producing high-quality code. When I'm not coding, you'll find me staying updated on the latest technologies and cyber security news/trends in web development.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
