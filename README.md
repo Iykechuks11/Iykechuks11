@@ -1,6 +1,6 @@
 # Hi 👋, I'm John
 
-### A web developer from Nigeria.
+### Currently an Applied Cyber Security Graduate Student and a Software Dev (MEAN).
 
 ### 📝 About me
 
