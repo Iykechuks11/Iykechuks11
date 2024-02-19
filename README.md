@@ -4,9 +4,6 @@
 
 ### 📝 About me
 
-As a web developer with a year of commercial experience, I specialize in building scalable and reliable applications using Typescript and Angular.js. I am highly skilled in writing tests and take pride in producing high-quality code. When I'm not coding, you'll find me staying updated on the latest technologies and cyber security news/trends in web development.
-
-
 ### 🚀Languages & Frameworks
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
