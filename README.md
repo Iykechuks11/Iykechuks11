@@ -1,6 +1,6 @@
 # Hi 👋, I'm John
 
-### Currently an Applied Cyber Security Graduate Student and a Software Dev (MEAN).
+### Bad Professor.
 
 ### 📝 About me
 
