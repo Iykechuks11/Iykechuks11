@@ -1,6 +1,6 @@
 # Hi 👋, I'm John
 
-### Bad Professor.
+### Professor.
 
 ### 📝 About me
 
