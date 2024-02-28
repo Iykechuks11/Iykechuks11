@@ -9,7 +9,8 @@
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/perl%20-%23DD0031.svg?&style=for-the-badge&logo=perl&logoColor=white"/>
+![Perl]<img src="https://img.shields.io/badge/perl%20-%23DD0031.svg?&style=for-the-badge&logo=perl&logoColor=white"/>
+
 
 <div align="center">
   
