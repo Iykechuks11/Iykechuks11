@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A passionate teacher, a life-long learner, a curious engineer and your friend.</h3>
+<h3 align="center">Web Developer 🚀 Cryptography Enthusiast | 🛡️ Secure Systems Advocate | 🧠 Lifelong Learner.</h3>
 <div align="center">
   
 ## Here is a random joke that'll make you laugh!
